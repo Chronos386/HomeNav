@@ -4,13 +4,9 @@ Home
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is a project for navigating inside buildings using BLE sensor signals, which in turn are located in different places in the building.
 
-A few resources to get you started if this is your first Flutter project:
+All complex calculations, such as finding a location or finding the best route from a location to a destination, are done on the server.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## An example of the main screen with an interactive map:
+![IMG_7062](https://user-images.githubusercontent.com/94765405/235887991-611b1867-ef0c-422f-8fa1-4edd9a54d584.jpeg)
